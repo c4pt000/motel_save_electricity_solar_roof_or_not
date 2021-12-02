@@ -11,3 +11,6 @@ when guest checks into room and keypass is assigned RFID triggers the room's lig
 
 
 to save wasted electricity via hotel's motel's from absent mindedness
+
+
+![s1](https://raw.githubusercontent.com/c4pt000/motel_save_electricity_solar_roof_or_not/main/Screenshot_20211202-052358-833~2.png)
