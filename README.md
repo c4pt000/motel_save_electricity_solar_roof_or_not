@@ -14,6 +14,10 @@ to save wasted electricity via hotel's motel's from absent mindedness
 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/motel_save_electricity_solar_roof_or_not/main/Screenshot_20211202-052358-833~2.png)
+12-26-2021
 
+simple conversion bolt the strong bar into the washer and dryer lid and the mount right into a washer dryer
+
+only for guest access using RFID keypass to access laundry machine lid physically to open and close machine physically with the lid
 
 also a way to indicate silently when the lid isn't closed after a guest uses a door key to unlock the dryer or washer lid to the front office as an indicator
