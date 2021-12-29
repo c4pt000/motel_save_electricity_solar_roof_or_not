@@ -23,3 +23,6 @@ only for guest access using RFID keypass to access laundry machine lid physicall
 also a way to indicate silently when the lid isn't closed after a guest uses a door key to unlock the dryer or washer lid to the front office as an indicator
 
 ![emdryer](https://raw.githubusercontent.com/c4pt000/motel_save_electricity_solar_roof_or_not/main/0_IMG_20211228_191510309_HDR~3.jpg)
+
+something similar to this
+WOOCH RFID Locks for Cabinets Hidden DIY Lock - Electronic Cabinet Lock with USB Cable, RFID Card/Tag/Wristband Entry https://www.amazon.com/dp/B07XJNQ5G7/ref=cm_sw_r_awdo_navT_g_X49WNV4PE1N75981QRB6
